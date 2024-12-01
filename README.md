@@ -17,9 +17,8 @@ Website hỗ trợ quản lý hoạt động của một quán ăn nhanh, bao g�
 - Xem báo cáo doanh thu theo ngày, tháng, năm.
 
 ### Hướng dẫn cài đặt
-- Cài đặt dự án Clone repo:
-+ git clone https://github.com/username/fastfood-website.git
-+ cd fastfood-website
+- Cài đặt dự án Clone repo: git clone https://github.com/vuhuyen1523/Fastfood.git
+cd Fastfood
 - Đặt thư mục dự án vào thư mục htdocs (XAMPP)
 - Mở phpMyAdmin tại http://localhost/phpmyadmin.
 - Tạo database FastFoodDB.
